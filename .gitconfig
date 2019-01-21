@@ -1,7 +1,7 @@
 [user]
-	name = 
+	name =  
 	email = 
-	username = ppahitharan
+	username = 
 [core]
 	editor = vim
 	whitespace = fix,-indent-with-non-tab,trailing-space,cr-at-eol
@@ -9,7 +9,7 @@
 #[sendemail]
 #	smtpencryption = tls
 #	smtpserver = smtp.gmail.com
-#	smtpuser = pavan.sss1991@gmail.com
+#	smtpuser = 
 #	smtppass = password
 #	smtpserverport = 587
 #[web]
